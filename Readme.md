@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DXWebApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXWebApplication1/Controllers/HomeController.vb))
+* [Person.cs](./CS/DXWebApplication1/Models/Person.cs) (VB: [PersonsList.vb](./VB/DXWebApplication1/Models/PersonsList.vb))
+* [PersonsList.cs](./CS/DXWebApplication1/Models/PersonsList.cs) (VB: [PersonsList.vb](./VB/DXWebApplication1/Models/PersonsList.vb))
+* **[GridViewPartial.cshtml](./CS/DXWebApplication1/Views/Home/GridViewPartial.cshtml)**
+* [Index.cshtml](./CS/DXWebApplication1/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/DXWebApplication1/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # GridView - How to use Bootstrap Glyphicons as Command Buttons
 
 

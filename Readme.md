@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # GridView - How to use Bootstrap Glyphicons as Command Buttons
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t252203)**
+**[[Run Online]](https://codecentral.devexpress.com/t252203/)**
 <!-- run online end -->
 
 
